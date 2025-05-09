@@ -4,6 +4,8 @@
 ├── src/
 │   └── index.html
 └── README.md
+
+
 # Prerequisites
 ```
 docker build -t html-app .
